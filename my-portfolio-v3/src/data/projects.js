@@ -2,7 +2,7 @@ const projects = [
   {
     title: "Portfolio Website",
     blurb: "A personal portfolio built with React, Vite, and MUI.",
-    description: "A comprehensive personal portfolio website built with modern React features, Vite for fast development, and Material-UI for sleek design components. Features responsive design, smooth animations, and optimized performance.",
+    description: "A comprehensive personal portfolio website built with modern React features, Vite for fast development, and Material-UI for sleek design components. Features responsive design, smooth animations, and optimized performance. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: "https://via.placeholder.com/400x200?text=Portfolio+Website",
     link: "https://example.com",
     technologies: [
